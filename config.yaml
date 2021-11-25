@@ -1,0 +1,8 @@
+# Urcuje oblast obrazovky kde je text
+bbox: [285, 230, 2250, 300]
+# Preskoci potvrzeni spravnosti textu
+skip_confirm: False
+# Ukaze screenshot oblasti ktera je nastavena, pro adjustment na ruzna rozliseni
+area_debug: False
+# Pouzije verzi Tesseractu ktera je v C:\Program Files\Tesseract-OCR
+use_system_tesseract: False

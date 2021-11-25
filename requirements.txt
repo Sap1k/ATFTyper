@@ -1,0 +1,8 @@
+Pillow
+PySimpleGUI
+PyYAML
+keyboard
+matplotlib
+numpy
+pytesseract
+opencv-python == 4.5.3.56   # This version requirement may be removed if you don't need PyInstaller to work
